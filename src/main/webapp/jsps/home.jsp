@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies, Viriginia, USA Office.</h1>
-<h1 align="center">We are developing and supporting quality  Software Solutions and serving over 100 million clients.
+<h1 align="center">Welcome to Landmark Technologies, Global Office.</h1>
+<h1 align="center">We are developing and supporting quality  Software Solutions and serving over 500 million clients.
 	           We are raising over 1m millionaires by 2030.
 	We also offer training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
